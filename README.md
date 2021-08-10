@@ -1,1 +1,1 @@
-# A project from Frontend Mentor. A basci order-summary-challenge. Wrote with pure HTML and CSS. 
+# A project from Frontend Mentor. A basic order-summary-challenge. Wrote with pure HTML and CSS. 
